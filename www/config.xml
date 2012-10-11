@@ -2,11 +2,11 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
-        version   = "2.0.0">
-    <name>Hello World</name>
+        version   = "1.0">
+    <name>Do I have a Vocation?</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Helping you discern your religious, married, or single life vocation.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
